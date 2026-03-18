@@ -29,6 +29,7 @@ Current packages (22):
 - Toggle ADs
 - UpdateBlock Status
 - LARKPlayer
+- RAnki
 - Alpine Linux
 
 Credits:
