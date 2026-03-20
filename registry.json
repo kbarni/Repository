@@ -116,6 +116,15 @@
         "tags": ["PRODUCTIVITY"]
     },
     {
+        "name": "KPomo",
+        "uri": "KPomo",
+        "description": "Pomodoro focus timer designed for Kindle e-readers",
+        "author": "Kurizu",
+        "ABI": ["hf", "sf"],
+        "dependencies": [],
+        "tags": ["PRODUCTIVITY"]
+    },
+    {
         "name": "KShips",
         "uri": "KShips",
         "description": "Battleship Game For Kindle",
