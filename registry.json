@@ -80,6 +80,15 @@
         "tags": ["GAMES"]
     },
     {
+        "name": "RAnki",
+        "uri": "RAnki",
+        "description": "Real Anki, with the real backend",
+        "author": "CrazyElectron",
+        "ABI": ["hf", "sf"],
+        "dependencies": [],
+        "tags": ["PRODUCTIVITY"]
+    },
+    {
         "name": "KWordle",
         "uri": "KWordle",
         "description": "Wordle Clone For Kindle",

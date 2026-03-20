@@ -29,9 +29,10 @@ Current packages (22):
 - Toggle ADs
 - UpdateBlock Status
 - LARKPlayer
+- RAnki
 - Alpine Linux
 
 Credits:
 
 - Dammit Jeff (KOReader, Gambatte-K2, ToggleAds, UpdateBlock Icons)
-- GreenCat777 (Alpine Linux install.sh, uninstall.sh)
+- GreenCat777 (Alpine Linux install.sh, uninstall.sh. RAnki install.sh, uninstall.sh)
