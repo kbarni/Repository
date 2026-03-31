@@ -210,9 +210,18 @@
         "uri": "Textadept",
         "description": "A Desktop-Grade Text Editor For Kindle",
         "author": "Barna",
-        "ABI": ["hf"],
+        "ABI": ["hf", "sf"],
         "dependencies": ["kTerm"],
-        "tags": ["DEVELOPMENT", "PRODUCTIVITY"]
+        "tags": ["DEVELOPMENT", "PRODUCTIVITY", "EDITORS"]
+    },
+    {
+        "name": "Wordgrinder",
+        "uri": "Wordgrinder",
+        "description": "The Writer's Word Processor",
+        "author": "Barna",
+        "ABI": ["hf", "sf"],
+        "dependencies": ["kTerm"],
+        "tags": ["PRODUCTIVITY", "EDITORS"]
     },
     {
         "name": "KUAL",

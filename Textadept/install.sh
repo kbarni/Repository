@@ -6,8 +6,8 @@ TMPDIR=/mnt/us/KFPM-Temporary
 mkdir -p "$TMPDIR"
 
 # Download + Extract
-curl -fSL --progress-bar -o "$TMPDIR/textadept.zip" https://github.com/kbarni/textadept-kindle/releases/latest/download/textadept_gtk+term.zip
-unzip -q "$TMPDIR/textadept.zip" -d /mnt/us
+curl -fSL --progress-bar -o "$TMPDIR/wordgrinder.zip" https://github.com/kbarni/wordgrinder/releases/latest/download/wordgrinder.zip
+unzip -q "$TMPDIR/wordgrinder.zip" -d /mnt/us
 
 # Cleanup
 rm -rf "$TMPDIR"
