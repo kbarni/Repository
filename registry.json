@@ -181,7 +181,7 @@
     {
         "name": "LARKPlayer",
         "uri": "LARKPlayer",
-        "description": "LARK Is a M4B Audiobook Reader for Kindles",
+        "description": "LARK Is a Free Audiobook Reader for Kindles",
         "author": "Barna",
         "ABI": ["hf"],
         "dependencies": [],
@@ -211,7 +211,7 @@
         "description": "A Desktop-Grade Text Editor For Kindle",
         "author": "Barna",
         "ABI": ["hf", "sf"],
-        "dependencies": ["kTerm"],
+        "dependencies": ["kTerm","KindleHIDPassthrough"],
         "tags": ["DEVELOPMENT", "PRODUCTIVITY", "EDITORS"]
     },
     {
@@ -220,7 +220,7 @@
         "description": "The Writer's Word Processor",
         "author": "Barna",
         "ABI": ["hf", "sf"],
-        "dependencies": ["kTerm"],
+        "dependencies": ["kTerm","KindleHIDPassthrough"],
         "tags": ["PRODUCTIVITY", "EDITORS"]
     },
     {
