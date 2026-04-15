@@ -244,7 +244,7 @@
     {
         "name": "Kindle Remote File Managers",
         "uri": "FileManagers",
-        "description": "Use Filebrowser and Syncthing to access your Kindle's Files Remotely",
+        "description": "Use Filebrowser and Syncthing to access and sync your Kindle's Files Remotely",
         "author": "Barna",
         "ABI": ["hf", "sf"],
         "dependencies": [],
